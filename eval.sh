@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=5 python robust_eval.py --pre_ckpt ./logs/test_model --eval_type test --task entailment
