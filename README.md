@@ -7,7 +7,7 @@ This repository provides datasets, and code for the following paper:
 > [EMNLP 2023](https://2023.emnlp.org/) (Findings, long paper) <br>
 
 <p align="center" >
-    <img src=assets/emnlp23_main_figure.jpg width="50%">
+    <img src=assets/emnlp23_main_figure.jpg width="70%">
 </p>
 
 ## Preliminary
