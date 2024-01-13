@@ -32,7 +32,7 @@ We remark that 1) two different tasks (`$TASK=[sentiment, entailment]`) and 2) s
 Also, please check out `run.sh` for the scripts to run the baseline and ours (RoAST) in other tasks. Most of our implementation can be found in `./transformers/models/$BACKBONE/modeling_$BACKBONE.py`, `roast_optim.py`, and `./training/base.py`.  
 
 
-## Evaluation of Robustness of Language Models on Multiple Perspectives. 
+## Evaluation of Robustness of Language Models on Multiple Perspectives 
 
 First, we remark that our training code (`train.py`) automatically conducts the robustness evaluation at the end of training (line xxx).
 
